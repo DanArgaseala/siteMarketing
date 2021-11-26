@@ -6,7 +6,7 @@ body{
 }
 .headFurnizori{
   background-color: #B70000;
-  color:black;
+  color:white;
   position: relative;
   top:-20px;
   padding: 20px;
@@ -22,7 +22,7 @@ body{
   display: flex;
   justify-content: space-around;
   list-style: none;
-  color:black;
+  color:white;
 }
 .para{
   width: 100%;
@@ -34,4 +34,8 @@ body{
   display: flex;
   justify-content: center;
   align-items: center;
+}
+.box{
+  width: 70%;
+  margin: auto;
 }
