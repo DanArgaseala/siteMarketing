@@ -1,0 +1,17 @@
+body{
+  text-align: center;
+  width: 75%;
+  margin: auto;
+  font-family: 'Monda', sans-serif;
+}
+ul{
+  list-style: none;
+}
+.footer{
+  margin-top: 30px;
+}
+.head{
+  background-color: black;
+  color:white;
+  width: 100%!important;
+}
