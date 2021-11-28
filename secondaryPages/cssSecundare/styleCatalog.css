@@ -1,11 +1,12 @@
 body{
   text-align: center;
-  background-color: black;
-  color:#B70000;
+  background-color: white;
   font-family: 'Monda', sans-serif;
+  width: 75%;
+  margin:auto;
 }
 .headFurnizori{
-  background-color: #B70000;
+  background-color: black;
   color:white;
   position: relative;
   top:-20px;
